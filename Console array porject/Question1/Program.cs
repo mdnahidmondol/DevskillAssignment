@@ -21,10 +21,11 @@ namespace Question1
                     {
                         Console.Write($"JaggedArray[{i}] [{j}, {k}]: {jaggedArray4[i][j, k]} ");
                     }
+                    Console.WriteLine();
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine();
+          
 
         }
         
